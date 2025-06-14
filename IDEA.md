@@ -4,7 +4,7 @@ For those like me who want to form better habits.
 
 ### Task
 
-Build a habit tracker with streak counting, statistics, and beautiful visualizations. Include daily reminders and a calendar view. Use a gamified UI to encourage consistency. Use AI to help users achieve their goals,  whether it be to form or break habits. *Going forward I will use `going to the gym` and `quitting vaping/smoking` as the prime examples of `good` and `bad` habits (respectively).
+Build a habit tracker with streak counting, statistics, and beautiful visualizations. Include daily reminders and a calendar view. Use a gamified UI to encourage consistency. Use AI to help users achieve their goals,  whether it be to form or break habits. *Going forward I will use `going to the gym` and `quitting vaping/smoking` as the prime examples of `good` and `bad` habits (respectively).*
 
 ### Thought process
 
