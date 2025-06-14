@@ -32,6 +32,7 @@ model Habit {
   logs          HabitLog[]
   currentStreak Int        @default(0)
   longestStreak Int        @default(0)
+  aiDashboardContent Json?
 }
 
 model HabitLog {

@@ -7,6 +7,13 @@ export interface User {
 
 export type HabitType = "good" | "bad";
 
+export interface AiDashboardContent {
+  title: string;
+  introduction: string;
+  insights: string[];
+  progress_visualization: string;
+}
+
 export interface Habit {
   id: string;
   userId: string;
@@ -16,6 +23,7 @@ export interface Habit {
   createdAt: Date;
   currentStreak: number;
   longestStreak: number;
+  aiDashboardContent?: AiDashboardContent | null;
 }
 
 export interface HabitLog {
